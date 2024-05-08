@@ -1,7 +1,14 @@
-const Cabecalho = (props) => {
-  // eslint-disable-next-line react/prop-types
-  const { nomeUsuario } = props;
-  return <div>Bem-vindo, {nomeUsuario}</div>;
+import style from './Cabecalho.module.css';
+
+const Cabecalho = () => {
+  return (
+    <div className={style.Cabecalho}>
+      <h1>
+        <span>ToDo</span>
+        List
+      </h1>
+    </div>
+  );
 };
 
 export { Cabecalho };
