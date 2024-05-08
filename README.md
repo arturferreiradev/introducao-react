@@ -28,7 +28,7 @@ Estou animado para continuar explorando e aprofundando meu conhecimento em React
 
 ## Agradecimentos
 
-Gostaria de expressar minha gratidão à equipe da plataforma [ticemtrilhas.org.br](https://ticemtrilhas.org.br/) por oferecer este curso incrível e por todo o suporte e orientação ao longo do caminho. Também gostaria de agradecer aos instrutores e colegas de curso que tornaram essa experiência tão enriquecedora e inspiradora.
+Gostaria de expressar minha gratidão à equipe da plataforma [TIC em trilhas](https://ticemtrilhas.org.br/) por oferecer este curso incrível e por todo o suporte e orientação ao longo do caminho. Também gostaria de agradecer aos instrutores e colegas de curso que tornaram essa experiência tão enriquecedora e inspiradora.
 
 Estou ansioso para aplicar tudo o que aprendi e continuar crescendo como desenvolvedor front-end. Obrigado por me acompanhar nesta jornada! 🚀
 
