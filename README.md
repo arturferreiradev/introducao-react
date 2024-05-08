@@ -1,6 +1,6 @@
 # Introdução a React: Reativando seu front-end
 
-Olá a todos! Estou emocionado em compartilhar minha jornada através do curso de Introdução a React: Reativando seu Front-End oferecido pela plataforma [ticemtrilhas.org.br](https://ticemtrilhas.org.br/). Durante esse curso, mergulhei profundamente no mundo do desenvolvimento front-end com React e adquiri uma série de novos conhecimentos e habilidades emocionantes.
+Olá a todos! Estou emocionado em compartilhar minha jornada através do curso de Introdução a React: Reativando seu Front-End oferecido pela plataforma [TIC em Trilhas](https://ticemtrilhas.org.br/). Durante esse curso, mergulhei profundamente no mundo do desenvolvimento front-end com React e adquiri uma série de novos conhecimentos e habilidades emocionantes.
 
 ## O que é React?
 
